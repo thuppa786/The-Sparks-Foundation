@@ -14,7 +14,7 @@
 
  Dataset : https://drive.google.com/drive/u/0/folders/1bm96PT4OAVHz6Ug0hLQ4vK8mNWZKr_TL
  
- Solution : https://github.com/thuppa786/The-Sparks-Foundation/tree/main/Prediction%20using%20Unsupervised%20MLL
+ Solution : https://github.com/thuppa786/The-Sparks-Foundation/tree/main/Prediction%20using%20Unsupervised%20ML
  
  
  ## Task-3: Exploratory Data Analysis - Retail
